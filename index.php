@@ -50,8 +50,8 @@
         </nav>
     </div>
   	<div class=" baseline reveal">
-    	<strong class=" baseline-name reveal-2">ODILE COUTIEZ</strong>
-    	<span class=" baseline-slogan reveal-3">Développeuse Web et Web Mobile Junior</span>
+    	<strong class=" baseline-name reveal-2">Odile COUTIEZ</strong>
+    	<span class=" baseline-slogan reveal-3">Développeuse PHP</span>
   	</div>
 </header>	
 <section class="home-section section" id="A-propos-de-moi">
@@ -94,8 +94,6 @@
     		<ul class="reveal-2">
     			<hr>
 				<li class="reveal-1"><strong>Nom :</strong> COUTIEZ Odile</li>
-				<hr>
-				<li class="reveal-1"><strong>Date de naissance :</strong> 30 Janv 1985</li>
 				<hr>
 				<li class="reveal-1"><strong>Adresse :</strong> Compiègne, France</li>
 				<hr>
@@ -369,93 +367,7 @@
 </section>
 <section>
  
-  <div id="contact" class=" container contactPage mt-3">
-<!--
-      <div class="row formContact reveal">
-          <div class="col-md-12 text-center mb-3">
-              <h3 class="title reveal-1"><span>Me contacter</span></h3>
-          </div>
-          <div class="col-md-12 formulaireContact">
-              <form action="" method="POST">
-                  <div class="form-group reveal-3">
-                      <label for="">Adresse email <span>*</span></label> 
-                      <input type="email" class="form-control <?= (isset($_POST['email']) ? (!isset($formError['email']) ? 'is-valid' : 'is-invalid') : '') ?>" name="email" id="inputEmail1" aria-describedby="emailHelp" placeholder="mail@test.com">
-                      <?php
-                      // On affiche un alerte rouge qui contient le texte de l'erreur s'il y en à une.
-                      if (isset($formError['email'])) {
-                          ?>
-                          <div class="alert-danger">
-                              <p><?= $formError['email'] ?></p>
-                          </div>
-                      <?php } ?>
-                  </div>
-                  <div class="form-group reveal-3">
-                      <label for="nameSocity">Nom de société <span>*</span></label>
-                      <input type="text" class="form-control <?= (isset($_POST['nameSocity']) ? (!isset($formError['nameSocity']) ? 'is-valid' : 'is-invalid') : '') ?>" id="nameSocity" name="nameSocity" aria-describedby="nameSocity" placeholder="Ex : AGORA France">
-                      <?php
-                      // On affiche un alerte rouge qui contient le texte de l'erreur s'il y en à une.
-                      if (isset($formError['nameSocity'])) {
-                          ?>
-                          <div class="alert-danger">
-                              <p><?= $formError['nameSocity'] ?></p>
-                          </div>
-                      <?php } ?>
-                  </div>
-                  <div class="form-group reveal-3">
-                      <label for="objectOfMess">Objet de message <span>*</span></label>
-                      <input type="text" class="form-control <?= (isset($_POST['objectOfMess']) ? (!isset($formError['objectOfMess']) ? 'is-valid' : 'is-invalid') : '') ?>" id="objectOfMess" name="objectOfMess" aria-describedby="objectOfMess" placeholder="Réponse ">
-                      <?php
-                      // On affiche un alerte rouge qui contient le texte de l'erreur s'il y en à une.
-                      if (isset($formError['objectOfMess'])) {
-                          ?>
-                          <div class="alert-danger">
-                              <p><?= $formError['objectOfMess'] ?></p>
-                          </div>
-                      <?php } ?>
-                  </div>
-                  <div class="form-group reveal-3">
-                      <label for="message">Votre message <span>*</span></label>
-                      <textarea  class="form-control <?= (isset($_POST['message']) ? (!isset($formError['message']) ? 'is-valid' : 'is-invalid') : '') ?>" id="message" name="message" rows="3"></textarea>
-                      <?php
-                      // On affiche un alerte rouge qui contient le texte de l'erreur s'il y en à une.
-                      if (isset($formError['message'])) {
-                          ?>
-                          <div class="alert-danger">
-                              <p><?= $formError['message'] ?></p>
-                          </div>
-                      <?php } ?>
-                  </div>
-                  <div class="reveal-3">
-                      <input type="submit" name="send" id="send"  class="button" value="Envoyer" />  
-                  </div>
-              </form>
-          </div> 
-           formulaire traiter avec Ajax 
-          <div class="col-md-12 formulaireContact">
-              <form action="" method="POST" id="sendMail">
-                  <div class="form-group reveal-3">
-                      <label for="emailAdress">Adresse email <span>*</span></label> 
-                      <input type="email" class="form-control" name="emailAdress" id="emailAdress" aria-describedby="emailHelp" placeholder="mail@test.com">
-                    </div>
-                  <div class="form-group reveal-3">
-                      <label for="socityName">Nom de société <span>*</span></label>
-                      <input type="text" class="form-control" id="socityName" name="socityName" aria-describedby="socityName" placeholder="Ex : AGORA France">
-                  </div>
-                  <div class="form-group reveal-3">
-                      <label for="objectMess">Objet de message <span>*</span></label>
-                      <input type="text" class="form-control" id="objectMess" name="objectMess" aria-describedby="objectMess" placeholder="Votre texte ici ....">
-                  </div>
-                  <div class="form-group reveal-3">
-                      <label for="bodyMessage">Votre message <span>*</span></label>
-                      <textarea  class="form-control" id="bodyMessage" name="bodyMessage" rows="3"></textarea>
-                  </div>
-                  <div class="reveal-3">
-                      <input type="submit" name="envoyer" id="envoyer"  class="button" value="Envoyer" /> 
-                  </div>
-              </form>
-          </div>
-      </div>  -->
-    
+  <div id="contact" class=" container contactPage mt-3">    
       <div col-md-12>
         <div class="carte mt-5" > 
           <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d83086.08841395799!2d2.78481787823762!3d49.40057934753395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1608756780193!5m2!1sfr!2sfr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
@@ -486,7 +398,7 @@
       </div>
     </div>
     <div class="footer-credits reveal-4">
-      <div><p>Copyright 2020</p></div>
+      <div><p>Copyright <?php echo date("Y") ?></p></div>
     </div>
   </div>
 </footer>
