@@ -271,7 +271,7 @@
       <span>Experiences Professionnels</span>      
     </h2>
     <p class="reveal-2">
-      Sur le fait que je suis en réconversion, je n'ai pas encore des experiences en Développement web dans une entreprise. Mais cela ne m'a pas empêche de faire des petits projets personnels en cours de développement. <strong><a href="#projets">En savoir plus</a></strong> 
+      Stage de 3 mois en entreprise. Actuellement en poste de formatrice de Développeur web et web mobile, je conçois des outils de formation / pédagogiques, j'anime une formation, ...<strong><a href="#projets">En savoir plus</a></strong> 
     </p>
     <div class="recipes-list">
       <div class="recipes-list-item reveal-3">
@@ -284,8 +284,8 @@
           </p>
          <i class="fas fa-plus visible-block button"></i>
           <ul class="works">
-            <li>Accueil chaleureux des clients, réponses aux questionsd'ordre général, demande de la nature de la visite etindication du chemin vers le lieu d'exposition.</li>
-            <li>Encaissement des paiements des clients pour l'audioguide.</li>
+            <li>Accueil chaleureux des clients, réponses aux questions d'ordre général, demande de la nature de la visite et indication du chemin vers le lieu d'exposition.</li>
+            <li>Encaissement des paiements des clients pour l'audio-guide.</li>
           </ul>
         </div> 
       </div>
@@ -300,9 +300,9 @@
           </p>
           <i class="fas fa-plus visible-block button"></i>
           <ul class="works">
-            <li>Accueil chaleureux des clients, réponses aux questionsd'ordre général, demande de la nature de la visite etindication du chemin vers le lieu d'exposition</li>
-            <li>Encaissement des paiements des clients pour l'audioguide</li>
-            <li>Entretient du matériels, nettoyage et remise à niveau.</li>
+            <li>Accueil chaleureux des clients, réponses aux questions d'ordre général, demande de la nature de la visite et indication du chemin vers le lieu d'exposition</li>
+            <li>Encaissement des paiements des clients pour l'audio-guide</li>
+            <li>Entretient du matériel, nettoyage et remise à niveau.</li>
           </ul>
         </div>
       </div>
@@ -313,14 +313,14 @@
         </div>
         <div class="ml-5">
           <p>
-          <strong> Responsable immobiliers</strong> - Ministère des mines et depétrole, de Madagascar
+          <strong> Responsable des immobiliers</strong> - Ministère des mines et de pétrole, de Madagascar
         </p>
         <i class="fas fa-plus visible-block button"></i>
         <ul class="works">
-          <li>A travaillé en collaboration directe avec le chef de serviceLogistique.</li>
+          <li>Travaller en collaboration direct avec le chef de service Logistique.</li>
           <li>Gestion d'une équipe de 10 employés.</li>
           <li>Supervision du travail.</li>
-          <li>Élaboration des planning.</li>
+          <li>Élaboration des plannings.</li>
           <li>Gestion des matériels de travail</li>
         </ul>
         </div>
@@ -380,7 +380,7 @@
   <div class="container">
     <div class="footer-columns">
       <div class="footer-column reveal-1">
-        <div class="footer-title">Odile Coutiez</div>
+        <div class="footer-title">Odile COUTIEZ</div>
         <p><i class="fas fa-map-marker-alt mr-2"></i>
            Compiègne, France<br>
           <i class="fas fa-phone-alt mr-2"></i> +33 63 42 85 755<br>
@@ -389,7 +389,7 @@
       </div>
       <div class="footer-column reveal-2">
         <div class="footer-title">Disponibilité</div>
-        <p>Disponible immediatement</p>
+        <p>À définir</p>
       </div>
       <div class="footer-column reveal-3 networks">
         <a href="https://github.com/OdileCout"><div class="networks-icon"><i class="fab fa-github"></i></div></a>
